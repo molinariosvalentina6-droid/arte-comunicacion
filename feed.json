@@ -14,7 +14,7 @@
             "url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/comic.html",
             "title": "Comic",
             "summary": "Trabajo en grupo, por Daniela Murcia, Danna Benitez, Angie Pepinosa 100mil encartes",
-            "content_html": "<p>Trabajo en grupo, por Daniela Murcia, Danna Benitez, Angie Pepinosa</p>\n<p>100mil encartes</p>",
+            "content_html": "<p>Trabajo en grupo, por Daniela Murcia, Danna Benitez, Angie Pepinosa</p>\n<p>100mil encartes<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/Comic-100mil-encartes-2.png\" alt=\"\" width=\"682\" height=\"679\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/responsive/Comic-100mil-encartes-2-xs.png 300w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/responsive/Comic-100mil-encartes-2-sm.png 480w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/responsive/Comic-100mil-encartes-2-md.png 768w\"></figure>",
             "image": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/Comic-100mil-encartes.png",
             "author": {
                 "name": "Valentina Molina"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2026-03-23T19:43:47-05:00",
-            "date_modified": "2026-03-23T19:43:47-05:00"
+            "date_modified": "2026-03-23T19:44:46-05:00"
         },
         {
             "id": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/composicion.html",
