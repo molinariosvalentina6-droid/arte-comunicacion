@@ -3,12 +3,36 @@
     <title>Arte y comunicación</title>
     <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion" />
-    <updated>2026-03-23T19:07:45-05:00</updated>
+    <updated>2026-03-23T19:43:47-05:00</updated>
     <author>
         <name>Valentina Molina</name>
     </author>
     <id>https://molinariosvalentina6-droid.github.io/arte-comunicacion</id>
 
+    <entry>
+        <title>Comic</title>
+        <author>
+            <name>Valentina Molina</name>
+        </author>
+        <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion/comic.html"/>
+        <id>https://molinariosvalentina6-droid.github.io/arte-comunicacion/comic.html</id>
+        <media:content url="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/Comic-100mil-encartes.png" medium="image" />
+
+        <updated>2026-03-23T19:43:47-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/Comic-100mil-encartes.png" alt="" />
+                    Trabajo en grupo, por Daniela Murcia, Danna Benitez, Angie Pepinosa 100mil encartes
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/Comic-100mil-encartes.png" class="type:primaryImage" alt="" /></p>
+                <p>Trabajo en grupo, por Daniela Murcia, Danna Benitez, Angie Pepinosa</p>
+<p>100mil encartes</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Composición</title>
         <author>

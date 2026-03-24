@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/comic.html",
+            "url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/comic.html",
+            "title": "Comic",
+            "summary": "Trabajo en grupo, por Daniela Murcia, Danna Benitez, Angie Pepinosa 100mil encartes",
+            "content_html": "<p>Trabajo en grupo, por Daniela Murcia, Danna Benitez, Angie Pepinosa</p>\n<p>100mil encartes</p>",
+            "image": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/Comic-100mil-encartes.png",
+            "author": {
+                "name": "Valentina Molina"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-23T19:43:47-05:00",
+            "date_modified": "2026-03-23T19:43:47-05:00"
+        },
+        {
             "id": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/composicion.html",
             "url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/composicion.html",
             "title": "Composición",
