@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y comunicación",
+    "description": "",
+    "home_page_url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion",
+    "feed_url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Valentina Molina"
+    },
+    "items": [
+        {
+            "id": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/composicion.html",
+            "url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/composicion.html",
+            "title": "Composición",
+            "summary": "Este es mi trabajo hecho en Inkscape.",
+            "content_html": "<p>Este es mi trabajo hecho en Inkscape.</p>",
+            "author": {
+                "name": "Valentina Molina"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-23T19:07:45-05:00",
+            "date_modified": "2026-03-23T19:07:45-05:00"
+        }
+    ]
+}

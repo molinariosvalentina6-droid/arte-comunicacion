@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arte y comunicación</title>
+    <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion/feed.xml" rel="self" />
+    <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion" />
+    <updated>2026-03-23T19:07:45-05:00</updated>
+    <author>
+        <name>Valentina Molina</name>
+    </author>
+    <id>https://molinariosvalentina6-droid.github.io/arte-comunicacion</id>
+
+    <entry>
+        <title>Composición</title>
+        <author>
+            <name>Valentina Molina</name>
+        </author>
+        <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion/composicion.html"/>
+        <id>https://molinariosvalentina6-droid.github.io/arte-comunicacion/composicion.html</id>
+
+        <updated>2026-03-23T19:07:45-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Este es mi trabajo hecho en Inkscape.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Este es mi trabajo hecho en Inkscape.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
