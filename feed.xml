@@ -3,14 +3,14 @@
     <title>Arte y comunicación</title>
     <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion" />
-    <updated>2026-03-24T19:06:26-05:00</updated>
+    <updated>2026-03-24T19:08:36-05:00</updated>
     <author>
         <name>Valentina Molina</name>
     </author>
     <id>https://molinariosvalentina6-droid.github.io/arte-comunicacion</id>
 
     <entry>
-        <title>Comic</title>
+        <title>A2 - Comic</title>
         <author>
             <name>Valentina Molina</name>
         </author>
@@ -20,18 +20,19 @@
         <updated>2026-03-23T19:43:47-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Trabajo en grupo, por Daniela Murcia, Danna Benitez, Angie Pepinosa 100mil encartes
+                    100 MIL ENCARTES Trabajo en grupo, por Daniela Murcia, Danna Benitez, Angie Pepinosa
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Trabajo en grupo, por Daniela Murcia, Danna Benitez, Angie Pepinosa</p>
-<p>100mil encartes<figure class="post__image"><img loading="lazy"  src="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/Comic-100mil-encartes-2.png" alt="" width="682" height="679" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/responsive/Comic-100mil-encartes-2-xs.png 300w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/responsive/Comic-100mil-encartes-2-sm.png 480w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/responsive/Comic-100mil-encartes-2-md.png 768w"></figure>
+                <h1><strong>100 MIL ENCARTES </strong></h1>
+<figure class="post__image"><img loading="lazy"  src="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/Comic-100mil-encartes-2.png" alt="" width="682" height="679" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/responsive/Comic-100mil-encartes-2-xs.png 300w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/responsive/Comic-100mil-encartes-2-sm.png 480w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/3/responsive/Comic-100mil-encartes-2-md.png 768w"></figure>
+<p>Trabajo en grupo, por Daniela Murcia, Danna Benitez, Angie Pepinosa</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Composición</title>
+        <title>A1 - Composición</title>
         <author>
             <name>Valentina Molina</name>
         </author>
