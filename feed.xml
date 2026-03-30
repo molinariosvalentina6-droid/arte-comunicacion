@@ -3,12 +3,35 @@
     <title>Arte y comunicación</title>
     <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion" />
-    <updated>2026-03-27T18:50:08-05:00</updated>
+    <updated>2026-03-30T16:11:12-05:00</updated>
     <author>
         <name>Valentina Molina</name>
     </author>
     <id>https://molinariosvalentina6-droid.github.io/arte-comunicacion</id>
 
+    <entry>
+        <title>A3 - Composición sonora</title>
+        <author>
+            <name>Valentina Molina</name>
+        </author>
+        <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion/a3-composicion-sonora.html"/>
+        <id>https://molinariosvalentina6-droid.github.io/arte-comunicacion/a3-composicion-sonora.html</id>
+
+        <updated>2026-03-30T16:11:12-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Dentro de mí Esta composición sonora explora el diálogo interno como un espacio fragmentado, donde una misma voz se divide en dos: una que afirma y empuja, y otra que duda y resiste. A través del corte, repetición y reorganización del lenguaje, las frases pierden&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="align-center">Dentro de mí</h1>
+<p> </p>
+<p><audio loading="lazy" controls="controls" src="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/4/Dentro-de-mi.wav"></audio></p>
+<p class="align-center"><br>Esta composición sonora explora el diálogo interno como un espacio fragmentado, donde una misma voz se divide en dos: una que afirma y empuja, y otra que duda y resiste. A través del corte, repetición y reorganización del lenguaje, las frases pierden su estructura original y se transforman en ritmos, interrupciones y contradicciones, reflejando la inestabilidad del pensamiento.<br><br>Las voces fueron modificadas en tono para construir esta dualidad: una más grave y firme, otra más aguda y frágil. A lo largo de la pieza, el uso progresivo de reverberación, delay y superposición genera una sensación de expansión y saturación, llevando el diálogo desde un estado reconocible hacia un colapso sonoro.<br><br>El resultado no busca resolver el conflicto, sino habitarlo: un espacio donde decidir no es claro, y donde ambas voces terminan por mezclarse, sugiriendo que la identidad no es fija, sino un proceso en constante tensión.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A2 - Comic</title>
         <author>

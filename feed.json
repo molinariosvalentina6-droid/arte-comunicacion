@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/a3-composicion-sonora.html",
+            "url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/a3-composicion-sonora.html",
+            "title": "A3 - Composición sonora",
+            "summary": "Dentro de mí Esta composición sonora explora el diálogo interno como un espacio fragmentado, donde una misma voz se divide en dos: una que afirma y empuja, y otra que duda y resiste. A través del corte, repetición y reorganización del lenguaje, las frases pierden&hellip;",
+            "content_html": "<h1 class=\"align-center\">Dentro de mí</h1>\n<p> </p>\n<p><audio loading=\"lazy\" controls=\"controls\" src=\"https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/4/Dentro-de-mi.wav\"></audio></p>\n<p class=\"align-center\"><br>Esta composición sonora explora el diálogo interno como un espacio fragmentado, donde una misma voz se divide en dos: una que afirma y empuja, y otra que duda y resiste. A través del corte, repetición y reorganización del lenguaje, las frases pierden su estructura original y se transforman en ritmos, interrupciones y contradicciones, reflejando la inestabilidad del pensamiento.<br><br>Las voces fueron modificadas en tono para construir esta dualidad: una más grave y firme, otra más aguda y frágil. A lo largo de la pieza, el uso progresivo de reverberación, delay y superposición genera una sensación de expansión y saturación, llevando el diálogo desde un estado reconocible hacia un colapso sonoro.<br><br>El resultado no busca resolver el conflicto, sino habitarlo: un espacio donde decidir no es claro, y donde ambas voces terminan por mezclarse, sugiriendo que la identidad no es fija, sino un proceso en constante tensión.</p>",
+            "author": {
+                "name": "Valentina Molina"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-30T16:11:12-05:00",
+            "date_modified": "2026-03-30T16:11:12-05:00"
+        },
+        {
             "id": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/comic.html",
             "url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/comic.html",
             "title": "A2 - Comic",
