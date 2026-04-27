@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/a4-fanzine.html",
+            "url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/a4-fanzine.html",
+            "title": "A4 - Fanzine",
+            "summary": "Esto no es un horóscopo",
+            "content_html": "<h1>Esto no es un horóscopo</h1>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/Fanzine-final-Hor.png\" alt=\"\" width=\"1058\" height=\"820\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/Fanzine-final-Hor-xs.png 300w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/Fanzine-final-Hor-sm.png 480w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/Fanzine-final-Hor-md.png 768w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/back.png\" alt=\"\" width=\"1059\" height=\"818\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/back-xs.png 300w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/back-sm.png 480w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/back-md.png 768w\"></figure>",
+            "author": {
+                "name": "Valentina Molina"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-27T14:55:43-05:00",
+            "date_modified": "2026-04-27T14:55:43-05:00"
+        },
+        {
             "id": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/a3-composicion-sonora.html",
             "url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/a3-composicion-sonora.html",
             "title": "A3 - Composición sonora",

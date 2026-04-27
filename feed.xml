@@ -3,12 +3,35 @@
     <title>Arte y comunicación</title>
     <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion" />
-    <updated>2026-03-30T16:11:12-05:00</updated>
+    <updated>2026-04-27T14:55:43-05:00</updated>
     <author>
         <name>Valentina Molina</name>
     </author>
     <id>https://molinariosvalentina6-droid.github.io/arte-comunicacion</id>
 
+    <entry>
+        <title>A4 - Fanzine</title>
+        <author>
+            <name>Valentina Molina</name>
+        </author>
+        <link href="https://molinariosvalentina6-droid.github.io/arte-comunicacion/a4-fanzine.html"/>
+        <id>https://molinariosvalentina6-droid.github.io/arte-comunicacion/a4-fanzine.html</id>
+
+        <updated>2026-04-27T14:55:43-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Esto no es un horóscopo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Esto no es un horóscopo</h1>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/Fanzine-final-Hor.png" alt="" width="1058" height="820" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/Fanzine-final-Hor-xs.png 300w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/Fanzine-final-Hor-sm.png 480w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/Fanzine-final-Hor-md.png 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/back.png" alt="" width="1059" height="818" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/back-xs.png 300w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/back-sm.png 480w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/5/responsive/back-md.png 768w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A3 - Composición sonora</title>
         <author>
