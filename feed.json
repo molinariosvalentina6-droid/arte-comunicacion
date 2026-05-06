@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/a-iniciativas-autonomas.html",
+            "url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/a-iniciativas-autonomas.html",
+            "title": "A - Iniciativas autónomas",
+            "summary": "PRIMERA INICIATIVA Afiche: Teatro Luar - Sueños de Luz de Luna Como parte del trabajo de publicidad, además del manejo de redes sociales, diseñé este cartel para promocionar las funciones del grupo de teatro independiente de la Universidad Distrital. La propuesta visual busca reflejar la&hellip;",
+            "content_html": "<h4><span style=\"color: #843fa1;\">PRIMERA INICIATIVA</span></h4>\n<p>Afiche:<br>Teatro Luar - Sueños de Luz de Luna</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/6/Suenos-de-Luz-de-Luna-teatro-2.jpeg\" alt=\"\" width=\"538\" height=\"807\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/6/responsive/Suenos-de-Luz-de-Luna-teatro-2-xs.jpeg 300w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/6/responsive/Suenos-de-Luz-de-Luna-teatro-2-sm.jpeg 480w ,https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/6/responsive/Suenos-de-Luz-de-Luna-teatro-2-md.jpeg 768w\"></figure>\n<p>Como parte del trabajo de publicidad, además del manejo de redes sociales, diseñé este cartel para promocionar las funciones del grupo de teatro independiente de la Universidad Distrital. La propuesta visual busca reflejar la atmósfera de la obra, que mezcla suspenso y elementos dramáticos, a través del uso de iluminación, color y composición. El afiche funciona como una pieza clave para comunicar la identidad de la obra y atraer al público.</p>\n<h4><span style=\"color: #843fa1;\">SEGUNDA INICIATIVA</span></h4>\n<p>Composición sonora:<br>La lavandera</p>\n<p><audio loading=\"lazy\" controls=\"controls\" class=\"post__audio\">\n\t\t<source src=\"https://molinariosvalentina6-droid.github.io/arte-comunicacion/media/posts/6/Composicion-La-lavandera-2.mp3\" type=\"audio/mpeg\" />\n\n\t</audio></p>\n<p>Realicé una composición sonora construida exclusivamente a partir de efectos de sonido, sin uso de voz. Utilicé elementos como el río, caballos, pisadas y silbidos para sugerir una narrativa implícita. Busqué proponer una breve experiencia auditiva en la que el oyente reconstruya la historia desde la escucha.</p>\n<h4><span style=\"color: #843fa1;\">TERCERA INICIATIVA</span></h4>\n<p>Video:<br>Acerca de mí</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ROuFO0axkZk?si=JhYWmki_fivHqx6d\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>Realicé un video de presentación como una breve biografía personal. Lo grabé en la noche, utilizando la oscuridad como recurso para reflejar mi personalidad reservada.<br>Busqué transmitir esa dualidad entre presentarme y, al mismo tiempo, mantener cierta distancia, en relación con mi carácter tímido.</p>",
+            "author": {
+                "name": "Valentina Molina"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-30T15:30:56-05:00",
+            "date_modified": "2026-05-06T11:45:17-05:00"
+        },
+        {
             "id": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/a4-fanzine.html",
             "url": "https://molinariosvalentina6-droid.github.io/arte-comunicacion/a4-fanzine.html",
             "title": "A4 - Fanzine",
